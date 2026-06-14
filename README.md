@@ -112,7 +112,7 @@ The following software was used to develop, train, and deploy the StudySense sys
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/StudySense.git
+git clone https://github.com/teburke111/StudyRoomMLProject.git
 cd StudySense
 ```
 
