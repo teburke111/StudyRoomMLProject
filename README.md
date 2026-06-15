@@ -232,12 +232,6 @@ pio run -e inference -t upload
 pio device monitor
 ```
 
-6. Verify that the message below appears:
-
-```text
-Inference ready
-```
-
 ---
 
 # How to Run the Final Demo
