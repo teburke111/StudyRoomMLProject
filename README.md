@@ -113,7 +113,7 @@ The following software was used to develop, train, and deploy the StudySense sys
 
 ```bash
 git clone https://github.com/teburke111/StudyRoomMLProject.git
-cd StudySense
+cd StudyRoomMLProject
 ```
 
 2. Create a Python environment:
