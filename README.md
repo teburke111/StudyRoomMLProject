@@ -129,11 +129,9 @@ conda activate studysense
 pip install tensorflow scikit-learn pandas numpy matplotlib jupyter
 ```
 
-4. Open the training notebooks:
+4. Install PlatformIO in Visual Studio Code.
 
-5. Install PlatformIO in Visual Studio Code.
-
-6. Open the `firmware` folder as a PlatformIO project.
+5. Open the `firmware` folder as a PlatformIO project.
 
 ---
 
